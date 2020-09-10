@@ -4,7 +4,7 @@ This repository contains exercises for the [DTU continuing education course](htt
 
 This repository borrows heavily from previous works, in particular:
 
-* [02456 Deep Learning](https://github.com/DeepLearningDTU/02456-deep-learning-with-PyTorch) - Annual course in Deep Learning for postgraduates.
+* [02456 Deep Learning](https://github.com/DeepLearningDTU/02456-deep-learning-with-PyTorch) - Fall course in Deep Learning for postgraduates.
 
 * [2015 DTU Summerschool in Deep Learning](https://github.com/DeepLearningDTU/Summerschool_2015/tree/master/day1-NN). A PhD summerschool that was held at DTU in 2015. Exercises both in **numpy** and **Theano**.
 
