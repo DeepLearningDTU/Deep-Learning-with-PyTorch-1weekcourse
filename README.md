@@ -1,8 +1,10 @@
-# 02456 Deep Learning (with PyTorch)
+# Deep learning one week course (with PyTorch)
 
-This repository contains exercises for the DTU course [02456 Deep Learning](https://kurser.dtu.dk/course/02456). All exercises are written in the [Python](https://www.python.org/) programming language and formatted into [Jupyter Notebooks](https://jupyter.org/). If you're unfamiliar with notebooks, it can be a good idea to familiarize yourself with them in advance.
+This repository contains exercises for the [DTU continuing education course](https://www.dtu.dk/english/education/continuing-education/courses/computer-science/deep-learning). All exercises are written in the [Python](https://www.python.org/) programming language and formatted into [Jupyter Notebooks](https://jupyter.org/). If you're unfamiliar with notebooks, it can be a good idea to familiarize yourself with them in advance.
 
 This repository borrows heavily from previous works, in particular:
+
+* [02456 Deep Learning](https://github.com/DeepLearningDTU/02456-deep-learning-with-PyTorch) - Annual course in Deep Learning for postgraduates.
 
 * [2015 DTU Summerschool in Deep Learning](https://github.com/DeepLearningDTU/Summerschool_2015/tree/master/day1-NN). A PhD summerschool that was held at DTU in 2015. Exercises both in **numpy** and **Theano**.
 
